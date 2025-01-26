@@ -42,5 +42,6 @@ chmod +x install.sh
 ## Disclaimer
 > **WARNING**
 > This is obviously a joke.
+> However, this isn't even supposed to be funny.
 > You don't think you could actually get a girlfriend, now do you?
 > [!!!Fake Girlfriend Here!!!](https://github.com/LinkscapeOfficial/FakeGirlfriend)
