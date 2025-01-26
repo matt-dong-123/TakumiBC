@@ -29,6 +29,7 @@ git clone https://github.com/matt-dong-123/TakumiBC.git ~/TakumiBC
 
 ```sh
 cd TakumiBC
+chmod +x install.sh
 ./install.sh
 ```
 
