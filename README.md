@@ -7,8 +7,8 @@
     - Linus Torvalds:
         > Many AI companies have been especially hard to deal with.
         > Especially Nvidia, who also makes chips, a lot of chips, selling them into the Android market.
-        > It's really sad, and I really want to cuss those companies.
-        > However, with the arrival of TakumiBC, I can proudly say that I have a fake girlfriend to target instead of these companies.
+        > It's really sad, and I really want to fuck those companies.
+        > However, with the arrival of TakumiBC, I can proudly say that I have a fake girlfriend to "target" instead of these companies.
     - Robert E. Lee:
         > TakumiBC is quite a peculiar slave. He's not really... black.
         > However, he definitely is the most hardworking out of all of them I own.
@@ -42,5 +42,6 @@ chmod +x install.sh
 ## Disclaimer
 > **WARNING**
 > This is obviously a joke.
+> However, this isn't even supposed to be funny.
 > You don't think you could actually get a girlfriend, now do you?
 > [!!!Fake Girlfriend Here!!!](https://github.com/LinkscapeOfficial/FakeGirlfriend)
