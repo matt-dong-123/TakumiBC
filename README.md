@@ -35,7 +35,7 @@ chmod +x install.sh
 ./install.sh
 ```
 
-- Donate your life savings to [Linkscape](https://linkscape.app). Or else I'll belt you.
+- Donate your life savings to [LinkScape](https://linkscape.app). Or else I'll belt you.
 
 - Enjoy!
 
