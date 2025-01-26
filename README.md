@@ -16,6 +16,8 @@
     - My cat:
         > Meow.
         > (TakumiBC is the best slave I've ever owned!)
+    - Thomas Wu:
+        > I like enslaving myself.
 
 ## Installation
 
