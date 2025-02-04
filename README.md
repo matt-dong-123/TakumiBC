@@ -18,6 +18,7 @@
         > However, he definitely is the most hardworking out of all of them I own.
         >
         > He doesn't even cry if I belt him or racially abuse him!
+
             -- The constitution of the Confederate States of America
     - My cat:
         > Meow.
