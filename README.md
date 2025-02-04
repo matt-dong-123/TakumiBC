@@ -19,7 +19,7 @@
         >
         > He doesn't even cry if I belt him or racially abuse him!
 
-            -- The constitution of the Confederate States of America
+        -- The constitution of the Confederate States of America
     - My cat:
         > Meow.
         > (TakumiBC is the best slave I've ever owned!)
