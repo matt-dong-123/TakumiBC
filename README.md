@@ -28,18 +28,10 @@
 
 ## Installation
 
-- Clone this repository.
-
-```sh
-git clone https://github.com/matt-dong-123/TakumiBC.git ~/TakumiBC
-```
-
 - Run the install script.
 
-```sh
-cd TakumiBC
-chmod +x install.sh
-./install.sh
+```bash
+curl -s https://raw.githubusercontent.com/matt-dong-123/TakumiBC/main/install.sh | bash
 ```
 
 - Donate your life savings to [LinkScape](https://linkscape.app). Or else I'll belt you.
