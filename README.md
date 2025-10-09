@@ -44,5 +44,9 @@ curl -s https://raw.githubusercontent.com/matt-dong-123/TakumiBC/main/install.sh
 > [!!!Fake Girlfriend Here!!!](https://github.com/LinkscapeOfficial/FakeGirlfriend)
 
 > What?
+>
 > You like garbage collected languages?
+>
+> Do you wanna know who's collecting?
+>
 > Check out this repo then: <https://github.com/TakumiBC/matt-dong-123>
