@@ -42,3 +42,7 @@ curl -s https://raw.githubusercontent.com/matt-dong-123/TakumiBC/main/install.sh
 > You don't think you could actually get a girlfriend, now do you? (fuck you man, stop insulting me)
 >
 > [!!!Fake Girlfriend Here!!!](https://github.com/LinkscapeOfficial/FakeGirlfriend)
+
+> What?
+> You like garbage collected languages?
+> Check out this repo then: <https://github.com/TakumiBC/matt-dong-123>
