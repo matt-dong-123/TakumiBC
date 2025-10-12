@@ -2,7 +2,7 @@
 
 ## ❓What is it?
 
-- 🌟 TakumiBC is a anthropogenic (human-like) (is this even a real word???) AI (apple infrastructure) to help you create nonexistent tools such as finding yourself a fake girlfriend (parentheses).
+- 🌟 TakumiBC is a anthropomorphic (human-like) (is this even a real word???) AI (apple infrastructure) to help you create nonexistent tools such as finding yourself a fake girlfriend (parentheses).
 - 📸 TakumiBC has been praised by many (wtf really?):
   - Linus Torvalds:
     > Many AI companies have been especially hard to deal with.
